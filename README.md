@@ -41,6 +41,7 @@ Visualization: Matplotlib, WordCloud
 📊 Dataset
 
 Dataset: Financial Document Classification Dataset (Kaggle)
+and photos downloaded from various diffrent sources of financial documents
 
 Contains HTML financial documents and scanned files covering multiple categories.
 
